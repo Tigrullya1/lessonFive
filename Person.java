@@ -1,5 +1,5 @@
 package ru.geekbrains.java;
-
+// Урок 5. ООП
 public class Person {
     String fullName;
     String position;
